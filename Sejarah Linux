@@ -5,3 +5,7 @@ Tapi, ia frustasi karena lisensi MINIX  waktu itu cuma bisa diakses untuk kepent
 Karena itulah ia membuat kernel sendiri yakni Linux.
 Ia pun mengembangkan Linux di MNIX sampai matang. Kemudian Linus mengganti lisensi MINIX jadi GNU GPL. 
 Kemudian, pengembangan terus dilakukan oleh para profesional hingga terjadi integrasi antara Linux kernel dengan komponen GNU.
+Kolaborasi tersebut menghasilkan sistem operasi gratis yang dapat melakukan fungsinya dengan utuh.
+Dulunya Linus Torvalds  ingin memberi nama kernelnya dengan nama Freak, gabungan dari free, freak, dan Unix. 
+Bahkan di awal pekerjaannya, ia sudah memberi nama Freak di beberapa file. 
+Pada waktu itu, ia pun sempat mempertimbangkan nama “LINUX” tapi ia hiraukan karena dianggap mementing kepentingan prbadi.
