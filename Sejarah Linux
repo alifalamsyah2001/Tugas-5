@@ -5,3 +5,7 @@ Tapi, ia frustasi karena lisensi MINIX  waktu itu cuma bisa diakses untuk kepent
 Karena itulah ia membuat kernel sendiri yakni Linux.
 Ia pun mengembangkan Linux di MNIX sampai matang. Kemudian Linus mengganti lisensi MINIX jadi GNU GPL. 
 Kemudian, pengembangan terus dilakukan oleh para profesional hingga terjadi integrasi antara Linux kernel dengan komponen GNU.
+pada masa perkembangannya, file hasil pembutan diunggah pada FTP server.
+Kemudian, salah seorang administrator FTP Server yang juga merupakan temannya menilai bahwa nama Freax kurang menarik.
+Tanpa konsultasi dulu dengan Linus, ia mengubah nama dari project menjadi LINUX.
+Pada akhirnya, Linus tetap menyetujui penggantian nama tersebut dan sejak saat itulah nama LINUX dipakai hingga saat ini.
