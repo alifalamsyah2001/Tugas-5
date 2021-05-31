@@ -2,3 +2,8 @@
 2. Buka virtual box kemudian klik new
 3. Tentukan alokasi RAM
 4. Masukkan file ISO
+5. Boot Linux dari virtual box
+6. Sebelum mulai menginstal, pilih bahasa yang akan digunakan
+7. Pilih timezone
+8. Isi data yang diperlukan
+9. tunggu proses instalasi selesai
